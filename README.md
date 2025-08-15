@@ -1,7 +1,3 @@
-# zotero-fulltext-cli
-
-
-
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
@@ -15,14 +11,12 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://code.ovgu.de/kipul/forschung/tools/zotero-fulltext-cli.git
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://code.ovgu.de/kipul/forschung/tools/zotero-fulltext-cli/-/settings/integrations)
 
 ## Collaborate with your team
 
