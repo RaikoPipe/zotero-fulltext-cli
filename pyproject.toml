@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "zotero-obsidian-fulltext-cli"
+version = "0.1.0"
+description = "CLI tool for Zotero-Obsidian fulltext integration"
+authors = [{name = "Richard Reider", email = "richard@reider.io"}]
+requires-python = ">=3.8"
+dependencies = [
+    "syslira-tools",
+    "loguru",
+    "pathvalidate",
+]
+
+[project.scripts]
+zotero-obsidian = "zotero_obsidian_fulltext_cli.main:main"
+
+[project.optional-dependencies]
+dev = ["pytest", "black", "flake8"]
