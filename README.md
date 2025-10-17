@@ -1,4 +1,4 @@
-# obsidian-zotero-fulltext-plugin
+# zotero-fulltext-cli
 
 
 
@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://code.ovgu.de/kipul/forschung/tools/obsidian-zotero-fulltext-plugin.git
+git remote add origin https://code.ovgu.de/kipul/forschung/tools/zotero-fulltext-cli.git
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://code.ovgu.de/kipul/forschung/tools/obsidian-zotero-fulltext-plugin/-/settings/integrations)
+- [ ] [Set up project integrations](https://code.ovgu.de/kipul/forschung/tools/zotero-fulltext-cli/-/settings/integrations)
 
 ## Collaborate with your team
 
